@@ -1,0 +1,70 @@
+h1 {
+  font-family: 'Trocchi', serif;
+   margin: 40px 0px 70px;
+   font-size: 40px;
+   color: #7c795d;
+  text-align: center; 
+ /*  color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; 
+  */
+}
+
+#log-panel
+{
+	background-color: #DDD;
+	display: block;
+	margin: 20px auto 0 auto;
+	width: 700px;
+	height: 300px;
+	border: 2px solid #AAA !important;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.gwt-RichTextArea
+{
+	display: block;
+	margin: 0 auto 0 auto;
+	width: 500px;
+	height: 300px;
+	border: 2px solid #AAA !important;
+	border-radius: 10px;
+	background-color: #f9c372;
+}
+
+.button-panel
+{
+	width: 500px;
+	display: block;
+	margin: 0 auto 0 auto;
+	text-align: right;
+	border-radius: 10px;
+	padding-top: 5px;
+	font-size: 120%;
+	border-radius: 10px;
+	
+}
+
+.my-button1
+{
+	width: 90px;
+	font-weight: bold;
+	font-size: 120%;
+	border-radius: 8px;
+	background-color: #ff3f3f;
+}
+.my-button2
+{
+	width: 90px;
+	font-weight: bold;
+	font-size: 120%;
+	border-radius: 10px;
+	background-color: #7ded7f;
+}
+.my-button3, .log-button, .clear-button
+{
+	width: 90px;
+	font-weight: bold;
+	font-size: 120%;
+	border-radius: 10px;
+	background-color: #99b7e8;
+}
